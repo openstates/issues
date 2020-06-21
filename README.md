@@ -1,6 +1,8 @@
 # issues
 
-Central repository of Open States issues.  Issues for the project are often difficult for users/issue reporters to report in the correct repository.  Is an issue on OpenStates.org a data issue? An issue with the site itself, perhaps the API?    By unifying the issues repositories for the various components, it is much easier for people to report issues and for us to manage issues without relying on moving them around / making them harder to find.
+Issues for the project are often difficult for users/issue reporters to report in the correct repository.  Is an issue on OpenStates.org a data issue? An issue with the site itself, perhaps the API?    
+
+By unifying the issues repositories for the various components, it is much easier for people to report issues and for us to manage issues without relying on moving them around & making them harder to find.  If you're reporting an issue, just do your best :), we'll retag as needed.
 
 
 ## Labels & Repos
@@ -19,3 +21,4 @@ infrastructure:geo               | https://github.com/openstates/openstates-geo 
 infrastructure:people            | https://github.com/openstates/people              | person infrastructure 
 infrastructure:text-extraction   | https://github.com/openstates/text-extraction     | full text extraction infrastructure
 website                          | https://github.com/openstates/openstates.org      | non-data issues related to OpenStates.org
+
