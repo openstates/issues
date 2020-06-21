@@ -7,15 +7,15 @@ Central repository of Open States issues.  Issues for the project are often diff
 
 label                            | repo                                              | description
 ---------------------------------|---------------------------------------------------|--------------
-data:bills                       | https://github.com/openstates/bills               |    
-data:geo                         | https://github.com/openstates/openstates-geo      | 
-data:people                      | https://github.com/openstates/people              | 
-documentation                    | https://github.com/openstates/documentation       | 
-infrastructure:api-v1            | https://github.com/openstates/openstates.org      |
-infrastructure:api-v2            | https://github.com/openstates/openstates.org      |
-infrastructure:api-v3            | https://github.com/openstates/simpleapi           |
-infrastructure:bills             | https://github.com/openstates/openstates-scrapers |
-infrastructure:geo               | https://github.com/openstates/openstates-geo      |
-infrastructure:people            | https://github.com/openstates/people              |
-infrastructure:text-extraction   | https://github.com/openstates/text-extraction     |
-website                          | https://github.com/openstates/openstates.org      |
+data:bills                       | https://github.com/openstates/bills               | incorrect or incomplete bill & vote data
+data:geo                         | https://github.com/openstates/openstates-geo      | incorrect GIS data
+data:people                      | https://github.com/openstates/people              | incorrect or incomplete legislator data
+documentation                    | https://github.com/openstates/documentation       | documentation corrections & improvements
+infrastructure:api-v1            | https://github.com/openstates/openstates.org      | issues specific to the legacy v1 API
+infrastructure:api-v2            | https://github.com/openstates/openstates.org      | issues specific to the GraphQL v2 API
+infrastructure:api-v3            | https://github.com/openstates/simpleapi           | planning for the upcoming API v3
+infrastructure:bills             | https://github.com/openstates/openstates-scrapers | bill & vote scrape infrastructure
+infrastructure:geo               | https://github.com/openstates/openstates-geo      | GIS infrastructure
+infrastructure:people            | https://github.com/openstates/people              | person infrastructure 
+infrastructure:text-extraction   | https://github.com/openstates/text-extraction     | full text extraction infrastructure
+website                          | https://github.com/openstates/openstates.org      | non-data issues related to OpenStates.org
