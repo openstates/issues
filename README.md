@@ -4,6 +4,8 @@ Issues for the project are often difficult for users/issue reporters to report i
 
 By unifying the issues repositories for the various components, it is much easier for people to report issues and for us to manage issues without relying on moving them around & making them harder to find.  If you're reporting an issue, just do your best :), we'll retag as needed.
 
+If you're mentioning issues in this repo in a commit message, do so as openstates/issues#issue-num
+
 
 ## Labels & Repos
 
