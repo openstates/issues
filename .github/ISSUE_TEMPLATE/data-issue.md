@@ -2,7 +2,7 @@
 name: Data Issue
 about: Report an issue with Open States' data
 title: ''
-labels: 
+labels: type:bug
 assignees: ''
 
 ---
