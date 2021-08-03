@@ -2,7 +2,7 @@
 name: Site Issue
 about: Report an issue with the website
 title: ''
-labels: component:website
+labels: component:web
 assignees: ''
 
 ---
