@@ -19,6 +19,8 @@ Issues are typically assigned one of the following types:
 
 [Issues without Type](https://github.com/openstates/issues/issues?q=is%3Aissue+is%3Aopen+-label%3Atype%3Aenhancement+-label%3Atype%3Ahistorical+-label%3Atype%3Abug+-label%3Atype%3Aupstream+-label%3Atype%3Aproposal)
 
+[Issues without Component](https://github.com/openstates/issues/issues?q=is%3Aissue+is%3Aopen+-label%3Acomponent%3Abill-data+-label%3Acomponent%3Aweb+-label%3Acomponent%3Aapi-v3+-label%3Acomponent%3Apeople-data+-label%3Acomponent%3Ainfrastructure)
+
 ## Component Tags
 
 Tags beginning with component: indicate which part of Open States the issue is in.  If you're looking to work on a particular portion of the project, they can be helpful in limiting the scope.  A mapping of the components to repositories is presented below:
